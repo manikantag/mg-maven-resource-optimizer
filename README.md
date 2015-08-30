@@ -23,7 +23,9 @@ Simple Maven plugin to gzip JS & CSS files at build time.
 
 ## TODO
  * Much better implementation. *I know this can be written much better. I've written just to serve my purpose of gzip wro4j minified JS & CSS files at build time.*
+ * I m using this in production with Java 8 from last 6 months without any issue. I've not tested on Java 6/7 though.
  * Publish to Maven central
+ 
 
 ## License
 Licensed under the MIT license.
