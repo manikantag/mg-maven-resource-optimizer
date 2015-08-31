@@ -1,6 +1,6 @@
 # em-maven-resource-optimizer
 
-Simple Maven plugin to gzip JS & CSS files at build time.
+Simple Maven plugin to gzip JS & CSS files at build time. No other dependencies, other than Maven itself.
 
 ## Usage: 
 	<plugin>
