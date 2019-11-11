@@ -2,6 +2,10 @@
 
 Simple Maven plugin to gzip JS & CSS files at build time. No other dependencies, other than Maven itself.
 
+## Maven dependency
+
+Maven package is published at Github: https://github.com/manikantag/em-maven-resource-optimizer/packages
+
 ## Usage: 
 	<plugin>
 		<groupId>com.ekaminds</groupId>
@@ -22,9 +26,8 @@ Simple Maven plugin to gzip JS & CSS files at build time. No other dependencies,
 	</plugin>
 
 ## TODO
- * Much better implementation. *I know this can be written much better. I've written just to serve my purpose of gzip wro4j minified JS & CSS files at build time.*
- * I m using this in production with Java 8 from last 6 months without any issue. I've not tested on Java 6/7 though.
- * Publish to Maven central
+ * Much better implementation. *I know this can be written much better. I've written just to serve my purpose of gzip wro4j minified JS & CSS files at build time in couple of hours while everyone else is sleeping :p*
+ * I've used this in production with Java 8 without any issue
  
 
 ## License
