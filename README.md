@@ -4,12 +4,12 @@ Simple Maven plugin to gzip JS & CSS files at build time. No other dependencies,
 
 ## Maven dependency
 
-Maven package is published at Github: https://github.com/manikantag/em-maven-resource-optimizer/packages
+Maven package is published at Github: https://github.com/manikantag/mg-maven-resource-optimizer/packages
 
 ## Usage: 
 	<plugin>
-		<groupId>com.ekaminds</groupId>
-		<artifactId>em-maven-resource-optimizer</artifactId>
+		<groupId>com.manikanta</groupId>
+		<artifactId>mg-maven-resource-optimizer</artifactId>
 		<version>0.0.1</version>
 		<executions>
 			<execution>
