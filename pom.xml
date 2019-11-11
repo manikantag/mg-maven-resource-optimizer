@@ -65,5 +65,17 @@
 			</plugins>
 		</pluginManagement>
 	</build>
-	
+	<distributionManagement>
+	   <repository>
+	     <id>github</id>
+	     <name>GitHub OWNER Apache Maven Packages</name>
+	     <url>https://maven.pkg.github.com/manikantag/em-maven-resource-optimizer</url>
+	   </repository>
+	</distributionManagement>
+	<scm>
+	    <connection>scm:git:git@github.com:manikantag/em-maven-resource-optimizer.git</connection>
+	    <developerConnection>scm:git:git@github.com:manikantag/em-maven-resource-optimizer.git</developerConnection>
+	    <url>http://github.com/manikantag/em-maven-resource-optimizer</url>    
+	    <tag>HEAD</tag>
+	</scm>
 </project>
